@@ -3,6 +3,7 @@
  Airbnb Data Analysis Project
 
 Project Overview
+
 This project focuses on analyzing Airbnb listings data to derive insights into pricing trends, property availability, location impact, and host activity. The goal is to help stakeholders make data-driven decisions to improve performance and customer experience on the platform.
 
  Objectives
